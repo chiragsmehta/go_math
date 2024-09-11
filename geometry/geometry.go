@@ -1,5 +1,5 @@
 package geometry
 
-func findVolume(n int) int{
+func FindVolume(n int) int{
 	return n*n*n
 }
